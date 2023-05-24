@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">challenge</string>
+    <string name="box_one">Aqua</string>
+    <string name="box_two">Crimson</string>
+    <string name="box_three">Navy</string>
+    <string name="box_four">Orchid</string>
+    <string name="box_five">Royal Blue</string>
+    <string name="box_six">Violet</string>
+    <string name="box_seven">Clear</string>
+</resources>
